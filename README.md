@@ -2,7 +2,7 @@
 
 # RIS-Codes-Collection: A Complete Collection contains the Codes for RIS(IRS) Researches.
 
-## Latest Update: [19/Jan/2024, No.126]
+## Latest Update: [16/May/2024, No.146]
 
 * If you find new code for RIS(IRS) paper, please remind me [here](https://github.com/ken0225/RIS_Codes_Collection/issues). 
 
@@ -19,6 +19,12 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 
 * My personal page is available: [kewang.fun](http://kewang.fun)
 
+* Star history
+
+[![RIS-Codes-Collection](https://api.star-history.com/svg?repos=ken0225/RIS-Codes-Collection)](https://star-history.com/#datawhalechina/leedl-tutorial&Date)
+
+* Project details
+  
 |No.| Paper Title | Authors | 
 | ------ | ------ | ------ |
 |1| [Intelligent Reflecting Surface Operation under Predictable Receiver Mobility: A Continuous Time Propagation Model](https://github.com/bmatthiesen/IRS-continuous) | Bho Matthiesen, etal. | 
@@ -144,4 +150,23 @@ An Electronic Reliability Perspective</a>. Compared with previous works, this pa
 |124|[东南大学-紫金山实验室-6G普适信道仿真器（SEU-PML-6GPCS)](https://ncrl.seu.edu.cn/2023/1024/c34871a469485/page.htm)|C.-X. Wang, etal.|
 |125|[Introduction to Multiple Antenna Communications and Reconfigurable Surfaces](https://github.com/emilbjornson/mimobook)|Emil Björnson, etal.|
 |126|[Reconfigurable Intelligent Surface Assisted Communications Using Dynamic Rotations](https://github.com/ken0225/RIS-Using-Dynamic-Rotations)|K. Wang, etal.|
-
+|127|[DNN-DANM: A High-Accuracy Two-Dimensional DOA Estimation Method Using Practical RIS](https://github.com/chenpengseu/DNN-DANM)|Z. Chen, etal.|
+|128|[Efficient LOS Channel Estimation for RIS Aided Communications Under Non Stationary Mobility](https://github.com/barbaalba/Efficient-LOS-Channel-Estimation-for-RIS-Aided-Communications-Under-Non-Stationary-Mobility)|M. Haghshenas, etal.|
+|129|[A New Channel Subspace Characterization for Channel Estimation in RIS Aided Communications](https://github.com/barbaalba/A-New-Channel-Subspace-Characterization-for-Channel-Estimation-in-RIS-Aided-Communications)|M. Haghshenas, etal.|
+|130|[Parametric Channel Estimation with Short Pilots in RIS-Assisted Near-and Far-Field Communications](https://github.com/barbaalba/Parametric-Channel-Estimation-with-Short-Pilots-in-RIS-Assisted-Near-and-Far-Field-Communications)|M. Haghshenas, etal.|
+|131|[Deep Reinforcement Learning for Intelligent Reflecting Surfaces: Towards Standalone Operation](https://www.deepmimo.net/applications/intelligent-reflecting-surfaces-rl/)|A. Taha, etal.|
+|132|[Wavenumber Domain Sparse Channel Estimation in Holographic MIMO](https://github.com/Brook1711/ICC-GCSE-Code)|Xufeng Guo, etal.|
+|133|[RIS(Reconfigurable Intelligent Surface) Simulations](https://github.com/Brook1711/RIS_components)|Brook1711|
+|134|[RIS Energy Efficiency Optimization with Practical Power Models](https://sky-lzy.github.io/)|Zhiyi Li, etal.|
+|135|[Robust Transceiver Design for RIS-Aided Spatially Correlated MIMO Channels with Uncertainty](https://github.com/wenhaofseu/Robust-Transceiver-RIS)|Xiao Liang, etal.|
+|136|[Gambling on Reconfigurable Intelligent Surfaces](https://github.com/StefanSchwarzTUW/RIS_Gambling)|Stefan Schwarz.|
+|137|[Control Aspects for Using RIS in Latency-Constrained Mobile Edge Computing](https://github.com/victorcroisfelt/mec-with-ris-control)|Chowdhury A, etal|
+|138|[Near-field 2D hierarchical beam training for extremely large-scale MIMO](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html)|Y. Lu, etal|
+|139|[A Joint Optimization of Pilot and Phase Shifts in Uplink Channel Estimation for Hybrid RIS-Aided Multi-User Communication Systems](https://github.com/Jiwook-Choi/Channel-Estimation-for-Hybrid-RIS)|Choi J, etal|
+|140|[Multi-agent Reinforcement Learning-based Joint Precoding and Phase Shift Optimization for RIS-aided Cell-Free Massive MIMO Systems](https://github.com/YiyangZYY/MARL-based_Joint_Precoding_and_Phase_Shift_Optimization_for_RIS-aided_Cell-Free_Massive_MIMO_Systems)|Y. Zhu, etal|
+|141|[SNR/CRB-Constrained Joint Beamforming and Reflection Designs for RIS-ISAC Systems](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC)|R. Liu, etal|
+|142|[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC)|R. Liu, etal|
+|143|[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://github.com/RangLiu0706/RIS_ISAC_magazine)|R. Liu, etal|
+|144|[Intelligent reflecting surface based passive information transmission: A symbol-level precoding approach](https://github.com/RangLiu0706/RIS-based-passive-information-transmission)|R. Liu, etal|
+|145|[Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO systems](https://github.com/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO)|R. Liu, etal|
+|146|[Joint Waveform Design and Passive Beamforming for RIS-Assisted Dual-functional Radar-Communication System](https://github.com/wxy1018/Waveform-Reflection-Design-for-RIS-ISAC)|X. Wang, etal|
